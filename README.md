@@ -20,4 +20,4 @@ Para ejecutar este proyecto necesitarás tener instalados los siguientes program
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/flutter-app/tu-repositorio-flutter.git
+   git clone https://github.com/pizarro-ep/flutter-app.git
