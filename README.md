@@ -1,16 +1,23 @@
-# Mi primera app con flutter
+# Mi Primera App en Flutter
 
-A new Flutter project.
+Este es un proyecto simple de una aplicación móvil desarrollada con [Flutter](https://flutter.dev/) como parte de mi proceso de aprendizaje.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Aplicación básica creada para entender los fundamentos de Flutter.
+- Interfaz sencilla y minimalista.
+- Implementa conceptos clave como widgets, navegación, y manejo de estado.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para ejecutar este proyecto necesitarás tener instalados los siguientes programas:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- [Android Studio](https://developer.android.com/studio) o [Visual Studio Code](https://code.visualstudio.com/) con el plugin de Flutter y Dart.
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/flutter-app/tu-repositorio-flutter.git
